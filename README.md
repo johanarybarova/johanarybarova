@@ -1,8 +1,11 @@
 ## Hi, I’m Johana 👋
 
-Frontend Engineer owning frontend delivery for **content-driven SaaS products**, from architecture to production.
-
-I build **React and Next.js systems** that remain predictable and performant as content, traffic, and product requirements evolve. My work focuses on scalable component systems, CMS-driven UI variants, and real-user performance.
+Frontend engineer specializing in React and Next.js web delivery. Own
+production frontend systems for content-driven websites, including UI
+architecture, performance optimization, accessibility, SEO, and CMS
+integration. Experienced with design systems, animations and microinteractions,
+and maintaining reliable, long-lived codebases under evolving
+requirements. 🚀👩‍💻
 
 🔗 **LinkedIn**  
 https://linkedin.com/in/johanarybarova
